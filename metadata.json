@@ -1,0 +1,6 @@
+{
+  "name": "ProHR Attendance",
+  "description": "A professional HR Attendance and Daily Reporting application built with Vue 3 and Express.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}

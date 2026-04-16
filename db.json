@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "1776314876690",
+      "email": "haryadiyusuf61@gmail.com",
+      "password": "$2a$10$7KPuySw03ItLkLjHlCreC.3nLHxm0i/yjO3MENA079987s8HT48x6",
+      "name": "Haryadi Yusuf",
+      "role": "admin"
+    }
+  ],
+  "attendance": [],
+  "reports": []
+}
